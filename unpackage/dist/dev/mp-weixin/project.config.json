@@ -1,0 +1,43 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.6.4",
+  "appid": "touristappid",
+  "projectname": "uni-app-test",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "swiper",
+          "query": "interval=4000&autoplay=false",
+          "id": 0,
+          "pathName": "pages/component/index"
+        },
+        {
+          "name": "test",
+          "id": 1,
+          "pathName": "pages/API/index"
+        }
+      ]
+    }
+  }
+}

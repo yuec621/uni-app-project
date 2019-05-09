@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"demo{ width: ",[0,100],"; height: ",[0,100],"; background: #66ccff; }\n.",[1],"title{ width: ",[0,50],"; height: ",[0,50],"; background: #fff; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

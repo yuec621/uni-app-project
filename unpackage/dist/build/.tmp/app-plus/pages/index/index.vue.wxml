@@ -1,0 +1,1 @@
+<template name="12f182d4"><button type="primary" bindtap="handleProxy" data-eventid="{{'12f182d4-0'}}" data-comkey="{{$k}}" class="_button 12f182d4">分享</button></template>

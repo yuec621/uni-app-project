@@ -1,0 +1,13 @@
+
+.demo{
+	  width: 100rpx;
+	  height: 100rpx;
+	  background: #66ccff;
+}
+.title{
+  		  width: 50rpx;
+  		  height: 50rpx;
+  		  background: #fff;
+}
+  
+

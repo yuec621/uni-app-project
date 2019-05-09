@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/API/index",
+    "pages/component/index",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "多端",
+    "navigationBarBackgroundColor": "#7ad138",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image/index.png",
+        "selectedIconPath": "static/image/selectIndex.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/component/index",
+        "iconPath": "static/image/index.png",
+        "selectedIconPath": "static/image/selectIndex.png",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/API/index",
+        "iconPath": "static/image/index.png",
+        "selectedIconPath": "static/image/selectIndex.png",
+        "text": "接口"
+      }
+    ]
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "uni-app-test",
+  "compilerVersion": "1.9.3"
+}
